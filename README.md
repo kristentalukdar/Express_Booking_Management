@@ -158,17 +158,4 @@ Explore and test the API endpoints using [Postman](https://documenter.getpostman
 2. Run `yarn install` to install dependencies.
 3. Set up your environment variables using the provided `.env` example.
 
-## Contributing
 
-We welcome contributions! Please follow our [contribution guidelines](https://www.linkedin.com/in/hamed-hasan) before submitting pull requests.
-
-## License
-
-This project is licensed under the ISC License - see the [LICENSE](https://hamedhasan-dev.vercel.app) file for details.
-
-## About the Author
-
-- **Author:** Hamed Hasan
-- **Location:** Saudi Arabia
-
-Feel free to explore, contribute, and enjoy building innovative features with Booking Management Backend!
